@@ -4,6 +4,10 @@
 # [Future Seekers Business Analytics](https://confirm.udacity.com/XXYPSKRY)
 
 
+# [Certi.pdf](https://github.com/TahaniB/Future-Seekers---Business-Analytics/files/6140474/Certi.pdf)
+
+
+
 
 ----------------------------------------------------------------------
 
