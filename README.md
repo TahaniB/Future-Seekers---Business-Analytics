@@ -4,7 +4,7 @@
 # [Future Seekers Business Analytics](https://confirm.udacity.com/XXYPSKRY)
 
 
-# [Certi <img width="832" alt="Certi" src="https://user-images.githubusercontent.com/80622731/111137840-52733980-8590-11eb-8285-a062c2cc422d.png">]
+# <img width="832" alt="Certi" src="https://user-images.githubusercontent.com/80622731/111137840-52733980-8590-11eb-8285-a062c2cc422d.png">
 
 
 
